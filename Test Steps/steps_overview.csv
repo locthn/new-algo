@@ -1,14 +1,4 @@
 Flow ID,Description,Test Steps,Flow Priority
-1,Verify Product Page for Apple i Phone15 New,"step 1: Navigate to Page home
+1,Verify the Product Details page for Apple i Phone15 New after navigating from the Home page,"step 1: Navigate to Page home
 step 2: At Page home click on hyperlink product apple iphone new --> navigate to Page product apple-iphone-15-new
 step 3: Add visual checkpoint at Page product apple-iphone-15-new",High
-4,Verify Checkout Information Page,"step 1: Navigate to Page checkout info
-step 2: Add visual checkpoint at Page checkout info",Low
-2,Verify Shopping Cart Page,"step 1: Navigate to Page cart
-step 2: Add visual checkpoint at Page cart",Low
-3,Verify Shipping Address Checkout Page,"step 1: Navigate to Page checkout shipping-address
-step 2: Add visual checkpoint at Page checkout shipping-address",Low
-5,Verify Payment Checkout Page,"step 1: Navigate to Page checkout payment
-step 2: Add visual checkpoint at Page checkout payment",Low
-6,Verify Category Page,"step 1: Navigate to Page category
-step 2: Add visual checkpoint at Page category",Trivial
